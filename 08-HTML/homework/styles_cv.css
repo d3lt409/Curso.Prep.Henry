@@ -1,0 +1,57 @@
+body {
+    font-family: 'Courier New', Courier, monospace;
+    background-image: url("https://www.teahub.io/photos/full/282-2820540_background-image-for-html-page.jpg");
+}
+
+span {
+    color: rgb(241, 0, 0);
+}
+
+h1 {
+    color: rgb(184, 111, 236);
+    display: flexbox;
+    text-align: center;
+}
+
+.Nombre {
+    border: none;
+    margin: 50px;
+    padding: 20px;
+    text-align: center;
+}
+
+h3 {
+    color: darkblue;
+    text-align: center;
+}
+
+div {
+    margin: 50px;
+    padding: 20px;
+    border: 10px solid gray;
+}
+
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: aquamarine;
+    padding: 50px;
+    border: 5px solid rgb(10, 46, 41);
+}
+
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}
+
+.foto {
+    text-align: center;
+    margin: 100px;
+    padding: 20px;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.foto img {
+    width: 400px;
+}
